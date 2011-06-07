@@ -20,4 +20,4 @@ requires:
 resources:
   homepage: http://github.com/ido50/MongoDBx-KeyValue/tree
   repository: git://github.com/ido50/MongoDBx-KeyValue.git
-version: 0.001
+version: 0.001001
